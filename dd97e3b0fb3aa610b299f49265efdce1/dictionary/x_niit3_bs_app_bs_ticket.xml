@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="0ee7ebb0fb3aa610b299f49265efdc61" extends="task" label="BS Ticket" max_length="40" name="x_niit3_bs_app_bs_ticket" type="collection"/>
+</database>
